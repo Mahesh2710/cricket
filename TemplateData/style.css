@@ -14,7 +14,7 @@
     top: 50%;
     transform: translate(-50%, -50%);
     
-    background-image: url('loading.gif');
+    background-image: url('loading.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
