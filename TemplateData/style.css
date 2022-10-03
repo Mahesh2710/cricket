@@ -8,6 +8,21 @@
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
 
+#custom-logo{
+    position:absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    
+    background-image: url('loading.gif');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    width: 200px;
+    heigjht: 200px;
+}
+
 body, html{
     margin:0;
     padding:0;
