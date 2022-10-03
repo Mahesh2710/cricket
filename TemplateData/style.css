@@ -15,7 +15,7 @@
     transform: translate(-50%, -50%);
 }
 #custom-logo {
-    background-image: url('loading.png');
+    background-image: url('loading.gif');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
