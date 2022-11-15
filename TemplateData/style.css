@@ -24,6 +24,7 @@
     height: 100px;
 }
 #custom-logo {
+    margin-top: 155px;
     background-image: url('loading.gif');
     background-size: contain;
     background-repeat: no-repeat;
