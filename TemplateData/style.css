@@ -34,7 +34,7 @@
     background-image: url('loading.gif');
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: bottom;
   
     width: 200px;
     height: 200px;
