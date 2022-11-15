@@ -8,12 +8,19 @@
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
 
-#custom-logo, custom-main_logo {
+#custom-main_logo{
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
 }
+#custom-logo{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
 #custom-main_logo {
     background-image: url('progressLogo.Dark.png');
     background-size: contain;
@@ -24,7 +31,6 @@
     height: 100px;
 }
 #custom-logo {
-    margin-top: 155px;
     background-image: url('loading.gif');
     background-size: contain;
     background-repeat: no-repeat;
